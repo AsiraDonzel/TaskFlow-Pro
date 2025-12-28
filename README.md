@@ -46,4 +46,6 @@
 
 ## License
 MIT License - feel free to use this for your own projects!
-   
+
+## Note
+If you clone the repo, create a folder called services and place the geminiServices.ts file in there.
